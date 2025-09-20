@@ -1,5 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-
+## Name : Yaazhini S
+## register number: 212224230308
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
